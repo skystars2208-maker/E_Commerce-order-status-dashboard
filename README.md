@@ -11,6 +11,7 @@ Without a structured tracking sheet, an operations team cannot easily see which 
 - Analyze sales, delivery, cancellations, and returns
 - Build Pivot Tables and an interactive Excel dashboard
 - Turn the analysis into insights and recommendations
+  ## ![Dashboard](dashboard.png)
 
 ## Tools Used
 - Microsoft Excel
@@ -52,11 +53,10 @@ Order lifecycle: Placed → Confirmed → Shipped → Out for Delivery → Deliv
 - Follow up quickly on delayed orders to reduce delivery-related cancellations
 
 ## Files in This Repository
-- `E_Commerce_Order_Status_Project.xlsx`: the full workbook
-- `docs/Project_requirement.docx`: requirement document
-- `docs/Project_insights.docx`: insights and recommendations
-- `screenshots/`: dashboard screenshots
-
+-   - `E_Commerce_Order_Status_Project.xlsx`: the full workbook
+   - `Project_requirement.docx`: requirement document
+   - `Project_insights.docx`: insights and recommendations
+   - `dashboard.png`: dashboard screenshot
 ## Author
 **Haseena Banu M**
 [LinkedIn](https://linkedin.com/in/haseena-banu96) | skystars2208@gmail.com
