@@ -19,7 +19,11 @@ Without a structured tracking sheet, an operations team cannot easily see which 
 - Data Validation (drop-down lists)
 - Pivot Tables and Pivot Charts
 - Slicers and Excel Dashboard
+## Interactive Dashboard Preview
 
+![Subscription Revenue Dashboard](dashboard.png)
+
+[View Excel Dashboard](Subscription_Revenue_data_set_Dashboards.xlsx)
 ## Dataset
 200 sample orders with these fields: Order ID, Order Date, Customer ID, Customer Name, City, Product ID, Product Name, Category, Quantity, Unit Price, Total Amount, Payment Method, Payment Status, Order Status, Expected Delivery Date, Actual Delivery Date, Delivery Partner, Return Reason, Cancellation Reason.
 
